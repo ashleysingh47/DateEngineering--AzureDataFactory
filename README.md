@@ -30,7 +30,12 @@ The pipeline utilizes a **Medallion Architecture** (Bronze, Silver, Gold) hosted
 * **Storage:** The summarized metric is written to the `gold` container, ready to be consumed by BI tools or executive dashboards.
 
 ## Project Screenshots
-*(Include 2-3 screenshots here to prove the work. Recommended screenshots:)*
-1. *Your ADF Data Flow canvas showing the branching paths to Silver and Gold.*
-2. *The Data Preview tab showing the calculated DTI column.*
-3. *A successful Pipeline Debug run output.*
+ADF Data Flow canvas showing the branching paths to Silver and Gold:
+<img width="1562" height="608" alt="image" src="https://github.com/user-attachments/assets/87e91cf6-91d7-4450-a605-08fd2939aa9e" />
+
+Data Preview tab showing the calculated DTI column:
+<img width="1614" height="699" alt="image" src="https://github.com/user-attachments/assets/b5060cee-9119-4b55-b8a0-cbf49a9acba7" />
+
+Successful Pipeline Debug run output:
+<img width="1634" height="765" alt="image" src="https://github.com/user-attachments/assets/b9271821-cf8b-4fa9-90bb-6967e1332dec" />
+
